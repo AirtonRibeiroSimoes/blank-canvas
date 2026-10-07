@@ -1,0 +1,5 @@
+.blank-screen {
+  position: fixed;
+  inset: 0;
+  background: #ffffff;
+}
